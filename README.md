@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Here is live preview [RappTokenExchange]([https://github.com/facebook/create-react-app](https://soft-glade-2476.on.fleek.co/)).
+Here is live preview [RappTokenExchange]([https://soft-glade-2476.on.fleek.co/]).
 
 ## Available Scripts
 
